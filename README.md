@@ -14,7 +14,7 @@ Script which derived all statistics except distance from the African surface wat
 https://code.earthengine.google.com/f88d96c7c0435f2641a3c138e6a0da78
 
 Script to derive the distance maps:
-https://code.earthengine.google.com/ce1bab41de62c7417297276417b896a5
+https://code.earthengine.google.com/0ed07adb4422c93ca2775780c4f10adf?noload=true
 
 Script to derive the distance statistics:
 https://code.earthengine.google.com/6957cefc6e8a89a543b8e7028bcea120
