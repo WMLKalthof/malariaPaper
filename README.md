@@ -1,14 +1,9 @@
 # malariaPaper
 Overview of data locations and scripts for the Kalthof et al. 2023 publication 
 
-R scripts: 
+R scripts and data are in the repository above
 
-R scripts with variables in the name are the scripts that include the BRT models with the different scenarios 
-
-Visualization scripts are the scripts use for the aggregation of raw BRT model results and the making of the bar charts 
-
-
-
+2021 East Africa surface water data location: 
 
 Earth Engine scripts:
 
@@ -29,3 +24,4 @@ https://code.earthengine.google.com/0ed07adb4422c93ca2775780c4f10adf?noload=true
 
 Script to derive the distance statistics:
 https://code.earthengine.google.com/6957cefc6e8a89a543b8e7028bcea120
+
