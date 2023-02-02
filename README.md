@@ -1,6 +1,17 @@
 # malariaPaper
 Overview of data locations and scripts for the Kalthof et al. 2023 publication 
 
+R scripts: 
+
+R scripts with variables in the name are the scripts that include the BRT models with the different scenarios 
+
+Visualization scripts are the scripts use for the aggregation of raw BRT model results and the making of the bar charts 
+
+
+
+
+Earth Engine scripts:
+
 Script to classify and validate the Netherlands:
 https://code.earthengine.google.com/740a416d964f78acd79969536f530f9e
 
