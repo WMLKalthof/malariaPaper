@@ -1,4 +1,4 @@
-# malariaPaper
+# Predicting continental scale malaria with land surface water predictors based on malaria dispersal mechanisms and high-resolution earth observation data
 Overview of data locations and scripts for the Kalthof et al. 2023 publication 
 
 R scripts and data are in the repository above
