@@ -1,4 +1,6 @@
 # Predicting continental scale malaria with land surface water predictors based on malaria dispersal mechanisms and high-resolution earth observation data
+Kalthof, M. W. M. L., Gravey, M., Wijnands, F., & Karssenberg, D. (2023). Predicting continental scale malaria with land surface water predictors based on malaria dispersal mechanisms and high-resolution earth observation data. AGU GeoHealth. Currently unpublished.
+
 Overview of data locations and scripts for the Kalthof et al. 2023 publication 
 
 R scripts and data are in the repository above
